@@ -2,7 +2,3 @@
 
 chore: Added Pull Request CI to update changelog and modified existing CI to reflect
 
-# Release 0.0.1
-
-Initial commit
-
